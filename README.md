@@ -1,10 +1,10 @@
 # Gillespie-s-Algorithm-MATLAB
 
-A repository to simulate kinesin and dynein states through stohastic differential equations
+A repository to simulate kinesin and dynein states through stochastic differential equations.
 
-Our MATLAB code uses Gillespie's Algorithm to simulate motor protein states. Primarily, we work with kinesin and dynein states.
+Our MATLAB code uses Gillespie's Algorithm to simulate motor protein states. Primarily, we work with kinesin and dynein.
 
-The manyGillespieInteracting file is the code whcih accounts for multiple proteins that may interact with eachother.
+The manyGillespieInteracting file is the code which accounts for multiple proteins that may interact with eachother.
 
 The single Gillespie file is a more naive approach.
 
